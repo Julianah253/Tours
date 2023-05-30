@@ -24,7 +24,7 @@
     padding: 1rem;
     z-index: 1000;
     box-shadow: 0 2px 4px rgba(2, 15, 29, 0.242);
-
+    backdrop-filter: saturate(180%) blur(5px);
     .logo
     {
         color: var(--blackColor);

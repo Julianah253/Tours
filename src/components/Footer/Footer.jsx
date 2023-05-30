@@ -163,9 +163,9 @@ const Footer = () => {
 
           </div>
 
-          <div className="footerDiv">
+          <div className="footerDiv" style={{textAlign: "center"}}>
             <small> BEST TRAVEL WEBSITE THEME </small>
-            <small> COPYRIGHTS RESERVED . JULIETECH 2023 </small>
+            <small> &copy; Julianah Babatunde </small>
           </div>
         </div>
       </div>
